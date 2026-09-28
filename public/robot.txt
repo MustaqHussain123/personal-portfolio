@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://personal-portfolio-jt7j.vercel.app/sitemap.xml
